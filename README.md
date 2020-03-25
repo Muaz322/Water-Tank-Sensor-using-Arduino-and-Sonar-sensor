@@ -22,8 +22,13 @@ Components Required:
 
 Wiring Schematics:
 
+
 Ultrasonic sensor----			Arduino UNO
+
 •	Trig		----				4
+
 •	Echo		----				2
+
 •	VCC			----			5V
+
 •	GND			----			GND
